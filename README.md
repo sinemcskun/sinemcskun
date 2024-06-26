@@ -15,6 +15,7 @@ I'm a passionate developer with a deep interest in various programming languages
 
 - **Frameworks & Libraries**:
   - Flask
+  - Django
 
 - **Tools & Platforms**:
   - Kali Linux
