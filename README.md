@@ -50,9 +50,9 @@ I'm a passionate developer with a deep interest in various programming languages
 
 ### 📈 GitHub Stats:
 
-![Your GitHub Stats]()
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinemcskun&show_icons=true&theme=radical)
 
-![Top Langs]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinemcskun&layout=compact&theme=radical)
 
 ### 🤔 Fun Fact:
 
